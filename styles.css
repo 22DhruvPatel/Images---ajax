@@ -1,0 +1,43 @@
+/* Author: Dhruv Patel- 000919050 */
+
+/* Styling for the container */
+#container {
+  color: black;
+}
+
+/* Styling for headings and container */
+h2, #container{
+  text-align: center;
+  margin: 50px;
+}
+
+/* Styling for main heading */
+#h1{
+  background-color: #1b1b32;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Styling for table header */
+.thead-light {
+  background-color: black;
+}
+
+/* Styling for footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1b1b32;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Styling for table */
+table{
+  margin-bottom: 100px;
+}
